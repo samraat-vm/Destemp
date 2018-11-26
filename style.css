@@ -1,0 +1,15 @@
+.dp{
+    border:2px black;
+    border-radius: 55%;
+}
+body{
+    background: black;
+}
+.item{
+    background-size: cover;
+    width: 100%;
+}
+
+i{
+    padding: 10px;
+}
